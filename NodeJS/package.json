@@ -1,0 +1,29 @@
+{
+  "name": "ezajax-node",
+  "version": "1.0.3",
+  "description": "Send ajax request in many languages and easier, faster, with many functions!",
+  "main": "EzAjax-NodeJS-v1.0.2.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KR-onae/EzAjax.git"
+  },
+  "keywords": [
+    "ez",
+    "easy",
+    "ajax",
+    "http",
+    "request",
+    "fast",
+    "many",
+    "function"
+  ],
+  "author": "KR-onae",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KR-onae/EzAjax/issues"
+  },
+  "homepage": "https://github.com/KR-onae/EzAjax#readme"
+}
